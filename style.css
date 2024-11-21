@@ -1,5 +1,17 @@
 
 
 .red {
-    
+    border: 1px solid red;
+}
+
+.blue {
+    border: 1px solid blue;
+}
+
+.green {
+    border: 1px solid green;
+}
+
+.orange {
+    border: 1px solid orange;
 }
